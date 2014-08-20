@@ -1,0 +1,198 @@
+@CHARSET "UTF-8";
+
+/***** NOTIFICATION MESSAGES *****/
+/*************************************/
+.notibar { 
+    height: auto; overflow: hidden; position: relative; margin-bottom: 20px; padding:0px 0 20px 0; -moz-border-radius: 2px; 
+    -webkit-border-radius: 2px; border-radius: 2px; line-height: 21px; -moz-box-shadow: inset 0 1px 0 rgba(250, 250, 250, 0.8); 
+    -webkit-box-shadow: inset 0 1px 0 rgba(250, 250, 250, 0.8); box-shadow: inset 0 1px 0 rgba(250, 250, 250, 0.8);
+
+}
+.notibar p { margin: 15px 10px 0 55px; font-size: 13px; color: #333; }
+.notibar a.close { 
+    position: absolute; width: 14px; height: 14px; top: 5px; right: 5px; background-image: url(../images/close.png); background-repeat: no-repeat; }
+.notibar a.close:hover { cursor: pointer; }
+.msgalert a.close { background-position: -14px 0; }
+.msgalert a.close:hover { background-position: -14px -14px; }
+.msginfo a.close { background-position: -42px 0; }
+.msginfo a.close:hover { background-position: -42px -14px; }
+.msgsuccess a.close { background-position: -28px 0; }
+.msgsuccess a.close:hover { background-position: -28px -14px; }
+.msgerror a.close { background-position: 0 0; }
+.msgerror a.close:hover { background-position: 0 -14px; }
+.announcement a.close { background-position: -56px 0; }
+.announcement a.close:hover { background-position: -56px -14px; }
+
+.msgalert { border: 1px solid #eac572; background: #ffe9ad url(../images/notifications.png) no-repeat 0 -52px; }
+.msginfo { border: 1px solid #99c4ea; background: #d1e4f3 url(../images/info.png) no-repeat 0 0; }
+.msgsuccess { border: 1px solid #c1d779; background: #effeb9 url(../images/success.png) no-repeat 0 0; }
+.msgerror { border: 1px solid #e18b7c; background: #fad5cf url(../images/error.png) no-repeat 0 0; }
+.announcement { 
+    border: 1px solid #fbe187; background: #ffffdf url(../images/advertisment-32.png) no-repeat 10px 10px; 
+    color: #95673f; height: auto;
+}
+.announcement h3 { margin: 15px 10px 10px 55px; }
+.announcement p { margin: 15px 10px 15px 55px; }
+
+
+
+.column-mlm {
+    width:50px;
+}
+
+.column-mlm img {
+    width:20px;
+    height:20px;
+}
+
+.column-mlm img:hover {
+    cursor:help;
+}
+
+.admin-settings
+{
+    text-align:right; 
+    vertical-align:top;
+}
+.toggle-visibility
+{
+    max-width: 500px; 
+    text-align: left; 
+    display: none; 
+}
+/*MLM settings heading page*/
+
+h2 .nav-tab {
+    padding: 4px 10px 6px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.helpmessage{
+    font-size:12px;
+    width:90%;
+    margin:10px;
+    border: 1px solid #DDD;
+    padding: 20px;
+    background: #FCFCFC;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+
+}
+
+.forms-ui{
+    font-size:12px;
+    width:90%;
+    margin:10px;
+    border: 1px solid #DDD;
+    padding: 20px;
+    background: #FCFCFC;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+
+}
+
+
+.helpmessage p{
+    margin:5 0 5px 0;
+
+}
+
+/********************************************************************
+MLM user list
+********************************************************************/
+.userslist{
+    margin:0;
+}
+
+.userslist .heading{
+    line-height:40px;
+}
+
+.payout-run{
+    height:30px;
+    width:300px;
+    float:left;
+    text-align:center;
+}
+
+
+table.payout-summary td.right{
+    text-align:right!important;
+}
+
+.updated{
+    line-height: 1.4;
+}
+
+
+
+.setting-page-wrapper {
+    background: none repeat scroll 0 0 #FCFCFC;
+    border: 1px solid #DDDDDD;
+    border-radius: 2px 2px 2px 2px;
+    margin:20px 10px 10px 10px;
+    padding: 20px;
+}
+
+.affiliate_url{
+    background-color: #FAFAFA;
+    background-image: -moz-linear-gradient(center top , #F4F4F4, #E6E6E6);
+    background-repeat: repeat-x;
+    border: 1px solid #D2D2D2;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1);
+    color: #7C7C7C;
+    font-size: 0.785714rem;
+    font-weight: normal;
+    line-height: 1.42857;
+    padding: 0.428571rem 0.714286rem;
+}
+.button-primary1, .button-primary1:hover{
+    background: #2ea2cc;
+    border-color: #0074a2;
+    -webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+    color: #fff;
+    text-decoration: none;
+    padding:6px 10px;
+    border-radius:4px;
+    text-decoration:none !important;
+}
+/************************************* withdrawal process ********************************************/
+#withdrawal_process{
+    margin:0px !important;
+    padding:0px !important;
+    float:left !important;
+}
+#withdrawal_process #process{
+    cursor: pointer !important;
+    color: #21759b;
+    padding: 0px !important;
+    border: 0px !important;
+    background-color: transparent !important;
+    text-decoration: underline;
+}
+#withdrawal_process #process:hover{
+    color:#d54e21 !important;
+}
+#paydone_form  #paydone{
+    cursor:pointer;
+}
+
+#comment_form  #submit_btn{
+    float:right;
+    margin:0px;
+    margin-left:20px;
+}
+#message h3.initiatedmsg{
+    margin:0px !important;
+    padding:0px !important;
+}
+#ePin
+{
+    width:13%;
+}

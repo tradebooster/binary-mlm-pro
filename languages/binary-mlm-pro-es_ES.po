@@ -1,0 +1,1035 @@
+msgid "Register New User"
+msgstr "Registrar nuevo usuario"
+
+msgid "Sponsor does not exist in the system."
+msgstr "Patrocinador no existe en el sistema." 
+
+msgid "Create Username"
+msgstr "Crear nombre de usuario"
+
+msgid "Congratulations! The username is available."
+msgstr "¡Enhorabuena! El nombre de usuario está disponible." 
+
+msgid "Create Password"
+msgstr "Crear contraseña"
+
+msgid "Password length atleast 6 character"
+msgstr "Contraseña longitud al menos 6 caracteres"
+
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña"
+
+msgid "Sponsor Name"
+msgstr "Nombre del patrocinador"
+
+msgid "Sorry! The specified sponsor is not available for registration."
+msgstr "¡Lo siento! El patrocinador especificada no está disponible para su registro."  
+
+msgid "Placement"
+msgstr "colocación"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "apellido"
+
+msgid "Address Line 1"
+msgstr "Dirección 1"
+
+msgid "Address Line 2"
+msgstr "Dirección 2"
+
+msgid "City"
+msgstr "ciudad"
+
+msgid "State"
+msgstr "estado"
+
+msgid "Postal Code"
+msgstr "Código Postal"
+
+msgid "Country"
+msgstr "país"
+
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Confirm Email Address"
+msgstr "Confirmar el correo"
+
+msgid "Contact No"
+msgstr "No Contacto"
+
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+
+msgid "Create First User in Network"
+msgstr "Cree primer usuario en red"
+
+msgid "In order to begin building your network you would need to register the First User of the network. All other users would be registered under this First User."
+msgstr "Con el fin de iniciar la construcción de su red que se necesita para registrar el primer usuario de la red. El resto de usuarios se registran bajo este primer usuario."
+
+msgid "Please Correct the following Error(s)"
+msgstr "Por favor corrija los siguientes errores (s)"
+
+msgid "<div class='updated fade'><p><strong>Please create the first user account in the MLM Network and configure other MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p> Por favor, cree la primera cuenta de usuario en la Red de MLM y configurar otras opciones de MLM. complacer</ strong>"
+
+msgid "<div class='updated fade'><p><strong>Please configure other MLM Settings. </strong>"
+msgstr "<div class='updated fade'><p><strong>Por favor, configure otros ajustes de MLM.</strong>"
+
+msgid "<div class='updated fade'><p><strong>Complete the MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p>Completar la configuración de MLM. complacer</ strong>"
+
+msgid "<h1>MLM Settings</h1>"
+msgstr "<h1>Configuración de MLM</ h1>"
+
+msgid "Currency Setting"
+msgstr "moneda Configuración"
+
+msgid "Please select the base currency of your MLM Network. This option is very important as all calculations will be performed in this base currency. Once this currency is chosen and saved, it CANNOT be changed later. The entire network will need to be reset if you decide to change the currency at a later date."
+msgstr "Por favor seleccione la moneda base de su red de MLM. Esta opción es muy importante ya que se llevarán a cabo todos los cálculos en esta moneda base. Una vez que esta moneda se escoge y se guarda, no se puede cambiar más adelante. Toda la red tendrá que ser restablecida si usted decide cambiar la moneda en una fecha posterior."
+
+msgid "Currency"
+msgstr "moneda"
+
+msgid "Select your currency which will you use."
+msgstr "Seleccione su moneda que va a utilizar."
+
+msgid "Eligibility Settings"
+msgstr "Configuración de elegibilidad"
+
+msgid "Use this screen to define the eligibility criteria for a member to start earning commissions in the network."
+msgstr "Utilice esta pantalla para definir los criterios de elegibilidad para un miembro de empezar a ganar comisiones en la red."
+
+msgid "No. of Direct Paid Referrals"
+msgstr "Número de Referidos directos pagados"
+
+msgid "The number of members that a member will need to directly and personally refer in the network before he can start earning commissions."
+msgstr "El número de miembros que un miembro deberá referirse directa y personalmente en la red antes de que pueda empezar a ganar comisiones."
+
+msgid "No. of paid referral(s) on right leg"
+msgstr "Número de referencia de pago (s) en la pierna derecha"
+
+msgid "The number of paid direct and personal referrals a member needs to introduce in this right leg before he can start earning commissions."
+msgstr "El número de referencias directas y personales pagados un miembro tiene que introducir en esta pierna derecha antes de que pueda empezar a ganar comisiones."
+
+msgid "No. of paid referral(s) on left leg"
+msgstr "Número de referencia de pago (s) en la pierna izquierda"
+
+msgid "The number of paid direct and personal referrals a member needs to introduce in this left leg before he can start earning commissions."
+msgstr "El número de referencias directas y personales pagados un miembro tiene que introducir en esta pierna izquierda antes de que pueda empezar a ganar comisiones."
+
+msgid "Please Correct the following Error"
+msgstr "Por favor corrija los siguientes errores"
+
+msgid "No. of direct paid referral(s)"
+msgstr "Número de referencia pagados directo (s)"
+
+msgid "Please specify direct referral by you."
+msgstr "Por favor, especifique referencia particular a usted."
+
+msgid "Please specify no. of paid referrals on right leg."
+msgstr "Especifique no. de pagar las referencias en la pierna derecha."
+
+msgid "Please specify no. of paid referrals on left leg."
+msgstr "Especifique no. de pagar las referencias en la pierna izquierda."
+
+msgid "Update Options"
+msgstr "Opciones de actualización"
+
+msgid "Payout Settings"
+msgstr "Configuración de Pago"
+
+msgid "Use this screen to define the basic parameters of your pay plan."
+msgstr "Utilice esta pantalla para definir los parámetros básicos de su plan de pago."
+
+msgid "How many paid members in the left and right leg individually will make 1 pair for calculating commissions."
+msgstr "¿Cuántos miembros pagados en la pierna izquierda y la derecha de forma individual hará 1 par para el cálculo de las comisiones."
+
+msgid "To incentivise members in the initial stages the amount paid for initial pairs is slightly higher than the regular payout amount."
+msgstr "Para incentivar a los miembros en las etapas iniciales de la cantidad pagada por pares inicial es ligeramente superior a la cantidad de pago regular."
+
+msgid "Specify the number of initial pairs for which you would like to pay a higher payout amount."
+msgstr "Especifique el número de pares iniciales para el que desea pagar una cantidad mayor pago."
+
+msgid "This is the per pair amount that is paid for the each Initial Pair."
+msgstr "Esta es la cantidad par por que se paga por el cada par inicial."
+
+msgid "This is the payout amount for every Pair after the Initial Pairs."
+msgstr "Esta es la cantidad desembolso para cada Pair después de que los Pairs Iniciales."
+
+msgid "An amount that is deducted from each Payout paid to the member as a fixed Service Charge. eg. $2 as processing fee for each payout."
+msgstr "Una cantidad que se deduce de cada ganancias pagadas a los miembros como un cargo de servicio fijo. por ejemplo. 2 dólares como cuota de procesamiento para cada desembolso."
+
+msgid "Some countries have a legislation of deducting Income Tax at source while making commission payments to your members."
+msgstr "Algunos países cuentan con una legislación de deducir Impuesto sobre la Renta en la fuente, mientras que los pagos de comisiones a sus afiliados."
+
+msgid "In case there is a tax deduction required in your country you can specify the tax % here."
+msgstr "En caso de que haya una deducción de impuestos requerido en su país se puede especificar el% de impuestos aquí."
+
+msgid "Please mention here pair ratio."
+msgstr "Detalle a relación de pareja."
+
+msgid "Please mention here initial pair."
+msgstr "Detalle a par inicial."
+
+msgid "Initial Pair Amount"
+msgstr "Cantidad Par Inicial"
+
+msgid "Please mention here initial amount."
+msgstr "Detalle a la cantidad inicial."
+
+msgid "Further Pair Amount"
+msgstr "Además Cantidad Par"
+
+msgid "Please mention here further pair amount."
+msgstr "Detalle a mayor cantidad par."
+
+msgid "Service Charge (If any)"
+msgstr "Servicio de carga (si procede)"
+
+msgid "Please specify service charge."
+msgstr "Especifique cargo por servicio."
+
+msgid "Tax Deduction"
+msgstr "Deducción de Impuestos"
+
+msgid "Please specify TDS."
+msgstr "Por favor, especifique TDS."
+
+msgid "Pair"
+msgstr "par"
+
+msgid "Initial Pairs"
+msgstr "pares iniciales"
+
+msgid "<span style='color:green;'>Your bonus has been successfully updated.</span>"
+msgstr "<span style='color:green;'>Su prima se ha actualizado correctamente.</ span>"
+
+msgid "Bonus Settings"
+msgstr "Configuración de bonificación"
+
+msgid "In case you have a bonus option in your Network, use this tab to configure the bonus settings."
+msgstr "En caso de tener una opción de bonificación en su red, utilice esta ficha para configurar los ajustes de bonificación."
+
+msgid "Bonus Criteria"
+msgstr "Criterios de bonificación"
+
+msgid "The bonus amount can be paid on the basis of Total number of Pairs in a members network or the Total number of members referred Personally by a member. Select the option that suits your network."
+msgstr "El importe de la bonificación se paga sobre la base del número total de pares en una red de miembros o el número total de los miembros contemplado personalmente por un miembro. Seleccione la opción que se adapte a su red."
+
+msgid "Bonus Slabs"
+msgstr "Losas de bonificación"
+
+msgid "Bonus Slab"
+msgstr "Bonus Slab"
+
+msgid "Specify the total number of pairs or members that a member needs to achieve and the corresponding bonus amount for the same. To add a new slab click the Add Row button. Specify the number of pairs / members and the corresponding amount for the next slab. When you are done creating the slabs click the Update Options button."
+msgstr "Especificar el número total de pares o de los miembros que un miembro necesita para lograr y la cantidad del bono correspondiente para el mismo. Para añadir una nueva losa haga clic en el botón Agregar fila. Especifique el número de pares / miembros y la cantidad correspondiente a la siguiente losa. Cuando haya terminado de crear las losas clic en el botón Opciones de actualización."
+
+msgid "Example Slab Figures"
+msgstr "Ejemplo Losa Figuras"
+
+msgid "Unit"
+msgstr "unidad"
+
+msgid "Amount"
+msgstr "cantidad"
+
+msgid "This implies that a member is paid a commission of 10 on achieving 5 pairs or personal referrals."
+msgstr "Esto implica que un miembro se le paga una comisión del 10 en el logro de 5 pares o referencias personales."
+
+msgid "On achieving the NEXT 10 pairs or personal referrals the member is paid a commission of 20. So now the member has either 15 pairs or 15 personal referrals in total."
+msgstr "En la consecución de los 10 pares PRÓXIMOS o referencias personales del miembro se pagó una comisión de 20. Así que ahora el miembro tiene cualquiera de 15 o 15 pares de referencias personales en total."
+
+msgid "On achieving the NEXT 20 pairs or personal referrals the member is paid a commission of 40. So now the member has either 35 pairs or 35 personal referrals in total."
+msgstr "En la consecución de los 20 pares PRÓXIMOS o referencias personales del miembro se pagó una comisión de 40. Así que ahora el miembro tiene cualquiera de 35 o 35 pares de referencias personales en total."
+
+msgid "Add or remove bonus slab."
+msgstr "Agregar o quitar bonus losa."
+
+msgid "Please select bonus type."
+msgstr "Por favor seleccione el tipo de bono."
+
+msgid "License Settings"
+msgstr "Configuración de licencia"
+
+msgid "License Details"
+msgstr "Detalles de la licencia"
+
+msgid "Domain Name"
+msgstr "Nombre de Dominio"
+
+msgid "License Key"
+msgstr "clave de licencia"
+
+msgid "Please fill the complete information."
+msgstr "Por favor llene la información completa."
+
+msgid "There has been an error while generating this tree. <br>Please contact the system admin at"
+msgstr "Se ha producido un error al generar este árbol. <br> Por favor, póngase en contacto con el administrador del sistema en"
+
+msgid "to report this problem."
+msgstr "para informar de este problema."
+
+msgid "You can't authorized to access searched user's genealogy."
+msgstr "No se puede autorizado para acceder a la genealogía del usuario registrado."
+
+msgid "Back"
+msgstr "espalda"
+
+msgid "You have searched a wrong username."
+msgstr "Usted ha buscado un nombre de usuario incorrecto.."
+
+msgid "My Left Group Details"
+msgstr "Mis Izquierdo Detalles de grupo"
+
+msgid "Display Number of Rows"
+msgstr "Número máximo de filas"
+
+msgid "Total Users"
+msgstr "total de usuarios"
+
+msgid "Active Users"
+msgstr "Usuarios activos"
+
+msgid "My Right Group Details"
+msgstr "Mis Derecho Detalles de grupo"
+
+msgid "My Personal Group Details"
+msgstr "Mis datos personales del grupo"
+
+msgid "My Consultants Details"
+msgstr "Mis Consultores Detalles"
+
+msgid "Consultants"
+msgstr "Consultores"
+
+msgid "Personal Information"
+msgstr "Información Personal"
+
+msgid "View Genealogy"
+msgstr "Ver Genealogía"
+
+msgid "View All"
+msgstr "Ver todos"
+
+msgid "You have not earned any commisssions yet."
+msgstr "Aún no has conseguido ningún commisssions todavía."
+
+msgid "Network Details"
+msgstr "Detalles de la red"
+
+msgid "Left Leg Sales"
+msgstr "Ventas pierna izquierda"
+
+msgid "Right Leg Sales"
+msgstr "Ventas pierna derecha"
+
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+msgid "Type Again"
+msgstr "escriba de nuevo"
+
+msgid "Binary MLM"
+msgstr "Binary MLM"
+
+msgid "Run Payouts"
+msgstr "Ejecutar pagos"
+
+msgid "User Report"
+msgstr "Informe de usuario"
+
+msgid "MLM Payout"
+msgstr "Pago MLM"
+
+msgid "Use this screen to run the Payout routine for your network. While testing the plugin use the Distribute Commission and Bonus button below after adding a few members to the network. On a live site the following URL needs to be scheduled (cron job) to run every hour for the commission and bonus routines."
+msgstr "Utilice esta pantalla para ejecutar la rutina de Pago para su red. Al probar el plugin utiliza la Comisión distribuir y botón Bono a continuación después de la adición de unos pocos miembros de la red. En un sitio en la siguiente dirección URL debe ser programada (cron) para ejecutarse cada hora durante las rutinas de comisiones y bonos."
+
+msgid "The commission and bonus routines would simply keep distributing the commission and bonus amounts in the member accounts. They would not show up in their account till the time the Payout Routine is not run. This script can be run manually once every week, every fortnight or every month depending on the payout cycle of the network. Alternately, please schedule (cron job) the following URL as per the frequency of the payout cycle."
+msgstr "Las rutinas de comisiones y bonos simplemente mantener la distribución de los importes de comisiones y bonos en las cuentas de los miembros. Ellos no aparecen en su cuenta hasta el momento en la rutina de Pago no se ejecuta. Este script se puede ejecutar manualmente una vez cada semana, cada quince días o cada mes, dependiendo del ciclo de pago de la red. Alternativamente, por favor haga (cron) la siguiente URL según la frecuencia del ciclo de pago."
+
+msgid "Distribute Commission and Bonus"
+msgstr "Distribuir Comisión y Bonus"
+
+msgid "Run Payout Routine"
+msgstr "Ejecutar rutina Pago"
+
+msgid "There is no any eligible member Found in this Payout."
+msgstr "No hay ningún miembro elegible encuentran en este desembolso."
+
+msgid "All is Well. Commit."
+msgstr "Todo está bien. Comprométase."
+
+msgid "Something wrong. Cancel."
+msgstr "Algo va mal. Cancelar."
+
+msgid "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>In order to view the details of the payout (like the image below) before committing the same, you may consider upgrading to the PRO version of the plugin. You can purchase a license key at"
+msgstr "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>Para ver los detalles del pago (como la imagen de abajo) antes de cometer el mismo, es posible considerar la actualización a la versión PRO del plugin. Usted puede comprar una clave de licencia en"
+
+msgid "Create First User"
+msgstr "Crear Primera usuario"
+
+msgid "General"
+msgstr "general"
+
+msgid "Eligibility"
+msgstr "elegibilidad"
+
+msgid "Payout"
+msgstr "pago"
+
+msgid "Bonus"
+msgstr "prima"
+
+msgid "License Detail"
+msgstr "Detalle de licencia"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Withdrawals"
+msgstr "Los de los usuarios"
+
+msgid "Withdrawal Process"
+msgstr "Proceso de del usuario"
+
+msgid "Withdrawal Report"
+msgstr "Informe usuario"
+
+msgid ".po-Editor"
+msgstr ".Bit-Editor"
+
+msgid "Update Details"
+msgstr "Actualiza Detalles"
+
+msgid "Add Row"
+msgstr "Añadir fila"
+
+msgid "Delete Row"
+msgstr "Eliminar fila"
+
+msgid "Select Bonus Criteria"
+msgstr "Seleccione los criterios de bonificación"
+
+msgid "No. of Pairs"
+msgstr "No de pares"
+
+msgid "No. of Personal Referrer"
+msgstr "No. of Personal Referrer"
+
+msgid "Select Currency"
+msgstr "Seleccionar moneda"
+
+msgid "Total"
+msgstr "total"
+
+msgid "Service Charges" 
+msgstr "Cargos por servicio"
+
+msgid "createuser" 
+msgstr "createuser"
+
+msgid "click here" 
+msgstr "haga clic aquí"
+
+msgid "Input a member's username or email address in the input box below to get complete information about the member's account. No more switching back and forth into different member accounts to check their account details." 
+msgstr "Entrada de usuario de un miembro o dirección de correo electrónico en la casilla de abajo para obtener información completa acerca de la cuenta del miembro. No más de alternar en diferentes cuentas de usuario para comprobar los datos de su cuenta."
+
+msgid "Search By username or email address" 
+msgstr "Buscar por nombre de usuario o dirección de correo electrónico" 
+
+msgid "Back to User Dashboard" 
+msgstr "Back to Dashboard usuario" 
+
+msgid "Please enter username or email address." 
+msgstr "Por favor, introduzca nombre de usuario o la dirección de correo electrónico."
+
+msgid "Search"
+msgstr "Search"
+
+msgid "You have entered a wrong username or email address"
+msgstr "Ha introducido un nombre de usuario o una dirección de correo electrónico"
+
+msgid "Given below is the list of all pending User Withdrawals."
+msgstr "A continuación se realiza la lista de todos los retiros pendientes usuario."
+
+msgid "Process"
+msgstr "proceso"
+
+msgid "Delete"
+msgstr "borrar"
+
+msgid "Input the payment details for the withdrawal. These payment details would also show up on the User's Payout Details Page."
+msgstr "Introduzca los detalles de pago para el retiro. Estos datos de pago también se mostrará en la página Detalles del usuario Pago."
+
+msgid "This would mark the withdrawal as deleted. The user would need to initiate a fresh withdrawal for this payout from his interface."
+msgstr "Esto marcaría el retiro como eliminado. Sería necesario que el usuario inicie una retirada fresca para este premio desde su interfaz."
+
+msgid "Member Username"
+msgstr "Nombre de usuario miembro"
+
+msgid "Member Email"
+msgstr "usuario Email"
+
+msgid "Withdrawal Initiate Date"
+msgstr "Fecha de Retiro Iniciado"
+
+msgid "Withdrawal Comment"
+msgstr "Retirada comentario"
+
+msgid "Payout Id"
+msgstr "Id Pago"
+
+msgid "Payout Date"
+msgstr "Fecha de Pago"
+
+msgid "Pending User Withdrawals"
+msgstr "Retiros pendientes usuario"
+
+msgid "Action"
+msgstr "acción"
+
+msgid "Hooray! Nothing in the pipeline to be processed."
+msgstr "Hooray! Nada en la tubería para ser procesado."
+
+msgid "Processed Withdrawals Report"
+msgstr "Retiros procesados ​​Informar"
+
+msgid "Given below is the list of all withdrawal requests that have been successfully processed."
+msgstr "A continuación se realiza la lista de todas las solicitudes de retiro que han sido procesados ​​con éxito."
+
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+msgid "User Email"
+msgstr "Envíe un correo electrónico"
+
+msgid "Withdrawal Date"
+msgstr "Fecha de Retiro"
+
+msgid "Withdrawal Amount"
+msgstr "Retiro Importe"
+
+msgid "Payment Mode"
+msgstr "Forma de Pago"
+
+msgid "Payment Details"
+msgstr "Detalles del pago"
+
+msgid "Submit"
+msgstr "presentar"
+
+msgid "Your License key has been updated."
+msgstr "Su clave de licencia ha sido actualizada.。"
+
+msgid "Sorry, Your License key is invalid."
+msgstr "Lo sentimos, la clave de licencia no es válido."
+
+msgid "Direct Referral Commission"
+msgstr "Comisión Referencia directa"
+
+msgid "This figure will be configurable on the Payout tab of the Plugin Settings. This amount will be added to the payout of a particular member during a particular payout cycle and will be shown on the front end Payout Details page as a separate line item titled Personal Referral Commission."
+msgstr "Esta cifra se puede configurar en la pestaña Pagos de la configuración del plugin. Este importe se añadirá a las ganancias de un miembro en particular durante un ciclo de pago en particular y se mostrará en la página Detalles Pago frontal como una partida separada titulada Comisión Referencia Personal."
+
+msgid "Cap Limit"
+msgstr "Cap Limit"
+
+msgid "Even if a member is entitled to an amount higher than the cap limit, the maximum amount that can be paid to the member will be equal to the amount specified in the cap limit field."
+msgstr "Incluso si un miembro tiene derecho a una cantidad superior al límite de la tapa, la cantidad máxima que puede pagarse al miembro será igual a la cantidad especificada en el campo límite cap."
+
+msgid "Initial Pair"
+msgstr "Par inicial"
+
+msgid "Initial Amount"
+msgstr "Importe Inicial"
+
+msgid "Direct Referral Commission Amount"
+msgstr "Referencia directa Monto Comisión"
+
+msgid "Cap Limit Amount"
+msgstr "Cap Límite de cantidad"
+
+msgid "Confirm Delete withdrawal request?"
+msgstr "Confirmar eliminación solicitud de retiro?"
+
+msgid "Process Individual User Withdrawal"
+msgstr "Proceso individual Retirada del usuario"
+
+msgid "Use the form below to process an individual user withdrawal."
+msgstr "Utilice el siguiente formulario para procesar una retirada de usuario individual."
+
+msgid "Cash"
+msgstr "efectivo"
+
+msgid "Cheque"
+msgstr "Cheque"
+
+msgid "Simply records a cash payment against the withdrawal with no further details."
+msgstr "Simplemente graba un pago en efectivo contra la retirada sin más detalles."
+
+msgid "Specify the Cheque Number, Cheque Date and Bank Name."
+msgstr "Especifique el Número de Cheque, Cheque fecha y el nombre del Banco."
+
+msgid "Bank Transfer"
+msgstr "Transferencia bancaria"
+
+msgid "Specify the Beneficiary Name, Account Number, Bank Name and Bank Transfer Code (optional)."
+msgstr "Especifique el Nombre del beneficiario, número de cuenta, nombre del banco y el Código Transferencia bancaria (opcional)."
+
+msgid "Other"
+msgstr "otro"
+
+msgid "For any other mode of payment. Just specify the payment details in the input box provided."
+msgstr "Para cualquier otro medio de pago. Sólo especifique los detalles de pago en el campo de entrada."
+
+msgid "Member Id"
+msgstr "Id miembro"
+
+msgid "Member User Name"
+msgstr "Miembro Nombre de usuario"
+
+msgid "Title"
+msgstr "título"
+
+msgid "Name"
+msgstr "nombre"
+
+msgid "Address"
+msgstr "dirección"
+
+msgid "DOB"
+msgstr "Fecha de nacimiento"
+
+msgid "Edit"
+msgstr "editar"
+
+msgid "My Payouts"
+msgstr "Mis pagos"	
+
+msgid "Date"
+msgstr "fecha"	
+
+msgid "Total on Right Leg"
+msgstr "Total en la pierna derecha"	
+
+msgid "Total on Left Leg"
+msgstr "Total en la pierna izquierda"	
+
+msgid "My Personal Sales"
+msgstr "Mis ventas personales"	
+
+msgid "Personal Sales"
+msgstr "Ventas Personales"	
+
+msgid "Details"
+msgstr "Detalles"	
+
+msgid "Payout Details"
+msgstr "Detalles de Pago"	
+
+msgid "Commission"
+msgstr "comisión"	
+
+msgid "Payout Summary"
+msgstr "Resumen de pagos"	
+
+msgid "Commission Amount"
+msgstr "Monto Comisión"	
+
+msgid "Bonus Amount"
+msgstr "Monto del Bono"	
+
+msgid "Sub-Total"
+msgstr "total parcial"	
+
+msgid "Service Charge"
+msgstr "Cargo por servicio"	
+
+msgid "Tax"
+msgstr "impuesto"	
+
+msgid "Net Amount"
+msgstr "Importe neto"	
+
+msgid "Your Withdrawal Request Initiated."
+msgstr "Su solicitud de retiro Iniciado."	
+
+msgid "Withdrawal Pending"
+msgstr "retiro pendiente"	
+
+msgid "Payment Processed"
+msgstr "pago procesado"	
+
+msgid "View Payment Detail"
+msgstr "Ver detalles de pago"	
+
+msgid "Comment, if any"
+msgstr "Comentarios, si los hubiere,"	
+
+msgid "Initiate withdrawal"
+msgstr "iniciar retirada"	
+
+msgid "Payout ID"
+msgstr "ID Pago"	
+
+msgid "User Key"
+msgstr "clave de usuario"
+
+msgid "Sponsor"
+msgstr "patrocinar"
+
+msgid "Status"
+msgstr "estado"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Right"
+msgstr "derecho"
+
+msgid "Payment Date"
+msgstr "Fecha de Pago"
+
+msgid "Payment Detail"
+msgstr "Detalle del pago"
+
+msgid "Cheque No"
+msgstr "registrarse"
+
+msgid "Cheque Date"
+msgstr "Cheque Fecha"
+
+msgid "Bank Name"
+msgstr "Nombre del banco"
+
+msgid "Benificiary"
+msgstr "Benificiary"
+
+msgid "Account No"
+msgstr "cuenta n"
+
+msgid "Banktransfer Code"
+msgstr "Código Banktransfer"
+
+msgid "Thanks for Patience"
+msgstr "Gracias por la paciencia"
+
+msgid "view"
+msgstr "ver"
+
+msgid "ADD"
+msgstr "AÑADIR"
+
+msgid "PAID"
+msgstr "PAGADO"
+
+msgid "Owner"
+msgstr "propietario"
+
+msgid "Left leg"
+msgstr "pierna izquierda"
+
+msgid "Right leg"
+msgstr "pierna derecha"
+
+msgid "YOU"
+msgstr "USTED"
+
+
+msgid "This is the amount paid to a sponsor for sponsoring a new member in the network. This amount is paid for an infinite number of referrals."
+msgstr "Se trata de la cantidad pagada a un patrocinador para el patrocinio de un nuevo miembro en la red. Esta cantidad se paga por un número infinito de referencias."
+
+msgid "Maximum amount that can be paid to a member in one payout cycle. Anything above the cap limit will be flushed out."
+msgstr "La cantidad máxima que se puede pagar a un miembro en un ciclo de pago. Cualquier cosa por encima del límite de la tapa será eliminado."
+
+
+msgid "Activate ePin"
+msgstr "Activar ePin"
+
+msgid "In case you would like to Activate ePin functionality on your website, set this value to Yes."
+msgstr "En caso de que quiera para activar la funcionalidad ePin en su página web, establezca este valor en Sí."
+
+msgid "Sole Payment Method"
+msgstr "Método de Pago Único"
+
+msgid "In case members can only register on your site via ePin, set this to Yes. This would make the ePin field mandatory on the user registration form and a visitor would need a valid unused ePin to complete his registration. If this value is set to No, a visitor will be able to register on the site even without specifying a valid ePin. In this case you would need to manually mark the member as Paid / Unpaid under Users -> All Users."
+msgstr "En el caso, los miembros sólo pueden inscribirse en su sitio a través ePin, ajústelo en Sí. Esto haría que el campo ePin obligatorios en el formulario de registro de usuario y el visitante necesitaría un ePin sin usar válida para completar su registro. Si este valor se establece en No, el visitante podrá registrarse en el sitio, incluso sin especificar un ePin válida. En este caso, usted tendría que marcar manualmente el miembro como remunerado / no remunerado en Usuarios -> Todos los usuarios."
+
+msgid "ePin Length"
+msgstr "ePin Longitud"
+
+msgid "The length of the generated ePins."
+msgstr "La longitud de los epins generados."
+
+msgid "Yes"
+msgstr "sí"
+
+msgid "No"
+msgstr "no"
+
+msgid "Here at least one ePin is used."
+msgstr "Aquí se utiliza al menos una ePin."
+
+msgid "ePin Settings"
+msgstr "Configuración Epin"
+
+msgid "ePins"
+msgstr "epins"
+
+msgid "Use this tab to generate the ePins in your network which would be used for registering new members on the site. All ePins generated will be unique and the length shall be as specified in the General Tab."
+msgstr "Utilice esta ficha para generar los epins en la red que se utilizan para el registro de nuevos miembros en el sitio. Todos epins generados serán únicas y la longitud será la especificada en la ficha General."
+
+msgid "No. of ePins"
+msgstr "Número de epins"
+
+msgid "Specify the number of ePins to generate."
+msgstr "Especifique el número de epins para generar."
+
+msgid "Type - Regular"
+msgstr "Tipo - Regular"
+
+msgid "A member registering with a Regular ePin shall be treated as a regular Paid member of the system. The commission for the member will be distributed amongst his upline and he will also earn commissions and bonuses from his downline."
+msgstr "Un miembro de registrarse en una ePin Regular será tratado como un miembro de pago regular del sistema. La comisión para el miembro será distribuida entre su línea ascendente y él también ganará comisiones y bonos de su línea descendente."
+
+msgid "Type - Free"
+msgstr "Tipo - Free"
+
+msgid "A member registering with a Regular ePin shall be treated as a Special Paid member of the system. The commission for the member will NOT be distributed amongst his upline (since he has not paid himself). However, he will earn commissions and bonuses from his downline (for regular paid members)."
+msgstr "Un miembro de registrarse en una ePin Regular será tratada como un miembro prestará especial del sistema. La comisión para el afiliado no se le distribuye entre su línea ascendente (ya que no ha pagado a sí mismo). Sin embargo, va a ganar comisiones y bonos de su línea descendente (para los miembros pagados regulares)."
+
+msgid "ePins of type"
+msgstr "epins de tipo"
+
+msgid "Regular"
+msgstr "regular"
+
+msgid "Free"
+msgstr "libre"
+
+msgid "} have been generated successfully."
+msgstr "} Se han generado con éxito."
+
+msgid "There was an error in generating the ePins. Please try again."
+msgstr "Se produjo un error en la generación de los epins. Por favor, vuelve a intentarlo."
+
+
+msgid "Type"
+msgstr "tipo"
+
+msgid "Generate ePins"
+msgstr "Generar epins"
+
+msgid "ePin Report"
+msgstr "ePin Informe"
+
+msgid "The report below lists all the ePins that have been generated on your site. Filter the results to see just the Used Pins or Unused Pins. To revert back to the default listing click the Reset Button."
+msgstr "El informe enumera todos los epins que se han generado en su sitio. Filtrar los resultados para ver sólo los pines usados ​​o prendedores Nuevos. Para volver a la lista por defecto haga clic en el botón Reset."
+
+msgid "Reset"
+msgstr "reajustar"
+
+msgid "Used Date"
+msgstr "usado Fecha"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Choose Option"
+msgstr "Elija la opción"
+
+msgid "Used ePin"
+msgstr "ePin usado"
+
+msgid "UnUsed ePin"
+msgstr "ePin no utilizados"
+
+msgid "export-csv"
+msgstr "export-csv"
+
+msgid "Cannot delete all the rows."
+msgstr "No se puede eliminar todas las filas."
+
+msgid "Please ensure that you have marked all the members as Paid who have Paid in the current Payout cycle. In case not, then"
+msgstr "Por favor, asegúrese de que ha marcado todos los miembros como de pago que han pagado en el ciclo de Pago en curso. En caso de que no, entonces"
+
+msgid "to go to the User Listing Page and mark those members as Paid."
+msgstr "para ir a la lista de usuarios de páginas y marcar esos miembros como pago."
+
+msgid "The <strong>Search</strong> and <strong>Export to CSV</strong> funtions will work on the currently active Recordset i.e. if you are currently on the Used ePin Filter then performing a search or Exporting to CSV will apply only to the Used ePins."
+msgstr "la <strong>Buscar</strong> y <strong>Exportar a CSV</strong> funtionstrabajará en el ejemplo de registros activo si se encuentra en el filtro ePin utiliza luego de realizar una búsqueda o exportar a CSV se aplicará sólo a los epins Usados."
+
+msgid "Pin No."
+msgstr "N º de pin"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Generated On"
+msgstr "Generated On"
+
+msgid "Used on"
+msgstr "Utilizado en"
+
+msgid "Please enter username."
+msgstr "Por favor, introduzca nombre de usuario."
+
+msgid "Please enter Valid ePin."
+msgstr "Introduce ePin Válido."
+
+msgid "Please enter ePin."
+msgstr "Introduce ePin."
+
+msgid "Please enter the user name."
+msgstr "Por favor, introduzca el nombre de usuario."
+
+msgid "Please enter password."
+msgstr "Por favor, introduzca la contraseña."
+
+msgid "Password length is atleast 6 char."
+msgstr "Longitud de la contraseña es de al menos 6 caracteres."
+
+msgid "Please confirm your password."
+msgstr "Por favor, confirme su contraseña."
+
+msgid "Please enter the sponsor name."
+msgstr "Por favor escriba el nombre del patrocinador."
+
+msgid "Special characters are not allowed in"
+msgstr "Los caracteres especiales no están permitidos en"
+
+msgid "Your email address is not valid."
+msgstr "Su dirección de correo electrónico no es válida."
+
+msgid "Your password does not match please try again."
+msgstr "Tu contraseña no coincide, por favor inténtalo de nuevo."
+
+msgid "Please enter sponsor name."
+msgstr "Por favor ingrese el nombre patrocinador."
+
+msgid "Please select the placement."
+msgstr "Por favor seleccione la ubicación."
+
+msgid "Please enter your first name."
+msgstr "Por favor escriba su nombre."
+
+msgid "Please enter your last name."
+msgstr "Introduzca su apellido."
+
+msgid "Please enter your address."
+msgstr "Introduzca su dirección de."
+
+msgid "Please enter your city name."
+msgstr "Introduzca su nombre de la ciudad."
+
+msgid "Please enter your state name."
+msgstr "Introduzca su nombre de estado."
+
+msgid "Please enter your postal code."
+msgstr "Introduzca su código postal."
+
+msgid "Please select your country name."
+msgstr "Por favor, seleccione su nombre de país."
+
+msgid "Please enter your E-mail address."
+msgstr "Introduzca su dirección de correo electrónico."
+
+msgid "Please confirm your E-mail address."
+msgstr "Por favor confirme su dirección de e-mail."
+
+msgid "Your E-mail address does not match please try again."
+msgstr "Su dirección de correo electrónico no está de acuerdo por favor inténtalo de nuevo."
+
+msgid "Please enter your contact number."
+msgstr "Introduzca su número de contacto."
+
+msgid "Please enter your date of birth."
+msgstr "Por favor, introduzca su fecha de nacimiento."
+
+msgid "The changes you made will be lost if you navigate away from this page. <br/> Are you sure you want to leave this page"
+msgstr "Los cambios realizados se perderán si se desplaza fuera de esta página. <br/> ¿Seguro de que deseas abandonar esta página"
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Los cambios realizados se perderán si se desplaza fuera de esta página."
+
+msgid "Enter ePin"
+msgstr "Introduzca ePin"
+
+msgid "Sorry. You are not allowed to access this page due to administrative permissions."
+msgstr "Lo siento. No está permitido acceder a esta página debido a los permisos administrativos."
+
+msgid "Your status is already to set to Paid in the system. You cannot activate your membership again with an ePin."
+msgstr "Su estado ya es establecer a cargo del sistema. No puede activar su membresía de nuevo con un ePin."
+
+msgid "<span class='msg'>Congratulations! This ePin is available.</span>"
+msgstr "<span class='msg'>¡Enhorabuena! Este ePin está disponible.</span>"
+
+msgid "<span class='errormsg'>Sorry! This ePin is not Valid or already Used .</span>"
+msgstr "<span class='errormsg'>¡Lo siento! Este ePin no es válido o ya usado .</span>"
+
+msgid "<span class='errormsg'>Sorry! The specified username is not available for registration.</span>"
+msgstr "<span class='errormsg'>¡Lo siento! El nombre de usuario especificado no está disponible para su registro.</span>"
+
+msgid "<span class='msg'>Congratulations! The username is available.</span>"
+msgstr "<span class='msg'>Congratulations! The username is available.</span>"
+
+msgid "<span class='errormsg'>Sorry! The specified sponsor is not available for registration.</span>"
+msgstr "<span class='errormsg'>¡Lo siento! El patrocinador especificada no está disponible para su registro.</span>"
+
+msgid "Reports"
+msgstr "Informes"
+
+msgid "Summaries"
+msgstr "Resúmenes"
+
+msgid "Total Amount Credited"
+msgstr "Importe total Acreditado"
+
+msgid "Pending Payments"
+msgstr "Los pagos pendientes"
+
+msgid "Processed Payments"
+msgstr "Los pagos procesados"
+
+msgid "Available Amount"
+msgstr "Disponible Importe"
+
+msgid "Product price"
+msgstr "precio del producto"
+
+msgid "Earning Reports"
+msgstr "Informes Ganar"
+
+msgid "Date From"
+msgstr "Fecha Desde"
+
+msgid "Date To"
+msgstr "Conocer a"
+
+msgid "Period"
+msgstr "período"
+
+msgid "Gross Earnings"
+msgstr "Ganancias brutas"
+
+msgid "Payouts"
+msgstr "pagos"
+
+msgid "Net Earnings"
+msgstr "Ganancias"
+
+msgid "MLM Reports"
+msgstr "Informes de MLM"
+
+msgid " to "
+msgstr " a "
+
+msgid "<div class='updated fade'><p><strong>Complete the MLM Product Price in General settings. Please </strong>"
+msgstr "<div class='updated fade'><p><strong>Complete el MLM Producto Precio en Configuración general. complacer </strong>"
+
+msgid "The price payable by a member in order to join your network."
+msgstr "The price payable by a member in order to join your network."

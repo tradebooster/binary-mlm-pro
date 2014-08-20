@@ -1,0 +1,178 @@
+table.calendar {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    background-color: white;
+    border: solid #09B3EB 2px;
+    width: 195px;
+    text-align: center;
+    /*prevent user from selecting text in Mozilla & Safari - check calendar constructor for IE code)*/
+    -moz-user-select: none;
+    /*-khtml-user-select: none;*/
+}
+table.calendar input, table.calendar select {
+    font-size: 10px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    margin:0px 3px 0px 3px;
+}
+table.calendar td, table.calendar th {
+    border: 0;
+    height:18px;
+    font-size: 10px;
+    text-align: center;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+}
+div.mainheading {
+    margin: 2px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+}
+table.caldayheading {
+    border-collapse: collapse;
+    cursor: pointer;
+    empty-cells: hide;
+    margin: 0 6px 0 6px;
+}
+table.caldayheading td {
+    border: solid #CCCCCC 1px;
+    margin:2px;
+    /*empty-cells:hide;*/
+    font-weight: bold;
+    color: #09B3EB;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    width: 22px;
+}
+table.caldayheading td.wkhead {
+    border-right: double #CCCCCC 3px;
+}
+table.calcells {
+    border-collapse: collapse;
+    border: solid #CCCCCC 1px;
+    cursor: pointer;
+    empty-cells: hide;
+    margin: 0 6px 0 6px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+table.calcells td {
+    border: solid #CCCCCC 1px;
+    /*vertical-align: top;
+    text-align: left;*/
+    margin:2px;
+    /*	height: 20px; /*IE doesn't like ems*/
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    width: 22px;
+}
+table.calcells td.wkhead {
+    background-color: white;
+    text-align: center;
+    border-right: double #CCCCCC 3px;
+    color: #FF0000; 
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    display:none;
+
+}
+table.calcells th {
+    border: solid #CCCCCC 1px;
+    margin:2px;
+    font-weight: bold;
+    color: #09B3EB;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    width: 22px;
+}
+table.calcells th.wkhead {
+    border-right: double #CCCCCC 3px;
+    cursor: default;
+    width: 22px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    color: #FF0000;
+    background:#FF0000;
+    display:none; 
+
+}
+table.calcells td div {
+    padding: 1px;
+    margin: 0;
+}
+table.calcells td.wkhead {
+    background-color: white;
+    text-align: center;
+    border-right: double #CCCCCC 3px;
+    color: #FF0000; 
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    display:none;
+}
+table.calcells td.hlday {
+    background-color: #99FF99;
+}
+table.calcells td.wkday {
+    background-color: #F9F9F9;
+}
+table.calcells td.wkend {
+    background-color: #F9F9F9;
+}
+table.calcells td.curdate {
+
+}
+table.calcells td.cell_selected {
+    background-color: #09B3EB;
+    color: white;
+}
+table.calcells td.notmnth {
+    background-color: #FFFFFF;
+    color: #CCCCCC;
+}
+table.calcells td.notallowed {
+    background-color: white;
+    color: #EEEEEE;
+    font-style: italic;
+}
+table.calcells td.hover {
+    background-color: #999999;
+}
+table.calcells td div {
+    padding: 1px;
+    margin: 0;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+}
+#date_field {
+    padding:0px 0px 0px 7px;
+    margin:0px;
+    width:77px;
+    float:left;
+    height: 16px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    color:#949494;
+    border: solid 1px #EBEBEB;
+}
+
+.datepicker {
+    background:url(../calander-images/calendar.jpg) left top;
+    color:#FFFFFF;
+    border:none;
+    cursor:pointer;	
+    width:18px;
+    height:18px;
+    float: left;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+}
+.clearbtn {
+    background:url(../beachLetsImages/calendarbutton.jpg) left top;
+    color:#FFFFFF;
+    border:none;
+    text-decoration:bold;
+    cursor:pointer;	
+    padding:2px;
+    margin:5px;
+    font-size:10px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+}

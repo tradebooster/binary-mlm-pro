@@ -1,0 +1,1069 @@
+msgid "Register New User"
+msgstr "注册新用户"
+
+msgid "Sponsor does not exist in the system."
+msgstr "赞助商不存在于系统中。" 
+
+msgid "Create Username"
+msgstr "创建用户名"
+
+msgid "Congratulations! The username is available."
+msgstr "恭喜！用户名可用。" 
+
+msgid "Create Password"
+msgstr "创建密码"
+
+msgid "Password length atleast 6 character"
+msgstr "密码长度至少的6个字符"
+
+msgid "Confirm Password"
+msgstr "确认密码"
+
+msgid "Sponsor Name"
+msgstr "赞助商名称"
+
+msgid "Sorry! The specified sponsor is not available for registration."
+msgstr "对不起！指定的赞助商是不是可以注册。"  
+
+msgid "Placement"
+msgstr "放置"
+
+msgid "First Name"
+msgstr "名字"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Address Line 1"
+msgstr "地址1号线"
+
+msgid "Address Line 2"
+msgstr "地址2号线"
+
+msgid "City"
+msgstr "城市"
+
+msgid "State"
+msgstr "州"
+
+msgid "Postal Code"
+msgstr "邮政编码"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+msgid "Confirm Email Address"
+msgstr "确认电子邮件地址"
+
+msgid "Contact No"
+msgstr "没有联系"
+
+msgid "Date of Birth"
+msgstr "出生日期"
+
+
+msgid "Create First User in Network"
+msgstr "创建的第一个用户网络"
+
+msgid "In order to begin building your network you would need to register the First User of the network. All other users would be registered under this First User."
+msgstr "为了开始建立自己的网络，你需要注册的首个用户的网络。所有其他用户将可以注册下的第一个用户。"
+
+msgid "Please Correct the following Error(s)"
+msgstr "请更正以下错误（S）"
+
+msgid "<div class='updated fade'><p><strong>Please create the first user account in the MLM Network and configure other MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p> 请在传销网络中创建的第一个用户帐户，并配置其他传销设置。请 </ strong>"
+
+msgid "<div class='updated fade'><p><strong>Please configure other MLM Settings. </strong>"
+msgstr "<div class='updated fade'><p><strong>请配置其他传销设定。</strong>"
+
+msgid "<div class='updated fade'><p><strong>Complete the MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p> 完成传销的设置。请 </ strong>"
+
+msgid "<h1>MLM Settings</h1>"
+msgstr "<h1> 传销设置 </ h1>"
+
+msgid "Currency Setting"
+msgstr "货币设定"
+
+msgid "Please select the base currency of your MLM Network. This option is very important as all calculations will be performed in this base currency. Once this currency is chosen and saved, it CANNOT be changed later. The entire network will need to be reset if you decide to change the currency at a later date."
+msgstr "请选择您的传销网络的基础货币。这个选项是非常重要的，因为所有的计算将在此基础货币进行。一旦这种货币选择和保存，它不能被改变。整个网络将需要重新设置，在以后的日子，如果你决定改变货币。"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Select your currency which will you use."
+msgstr "选择您的货币，你会用哪一个。"
+
+msgid "Eligibility Settings"
+msgstr "资格设置"
+
+msgid "Use this screen to define the eligibility criteria for a member to start earning commissions in the network."
+msgstr "使用此屏幕定义开始赚取佣金在网络的成员资格标准。"
+
+msgid "No. of Direct Paid Referrals"
+msgstr "的直接付费介绍人数目"
+
+msgid "The number of members that a member will need to directly and personally refer in the network before he can start earning commissions."
+msgstr "的成员数量，成员将需要直接并亲自指在网络中才可以开始赚取佣金。"
+
+msgid "No. of paid referral(s) on right leg"
+msgstr "右腿支付转介（S）号"
+
+msgid "The number of paid direct and personal referrals a member needs to introduce in this right leg before he can start earning commissions."
+msgstr "直接支付和个人推荐的一员，需要引进右腿在此之前，他可以开始赚取佣金。"
+
+msgid "No. of paid referral(s) on left leg"
+msgstr "左腿支付转介（S）号"
+
+msgid "The number of paid direct and personal referrals a member needs to introduce in this left leg before he can start earning commissions."
+msgstr "直接支付和个人推荐一个成员需要引进，左腿在此之前，他可以开始赚取佣金。"
+
+msgid "Please Correct the following Error"
+msgstr "请更正以下错误"
+
+msgid "No. of direct paid referral(s)"
+msgstr "号直接支付转介（）"
+
+msgid "Please specify direct referral by you."
+msgstr "请注明你直接转介。"
+
+msgid "Please specify no. of paid referrals on right leg."
+msgstr "请没有指定。支付转介右腿上。"
+
+msgid "Please specify no. of paid referrals on left leg."
+msgstr "请没有指定。支付转介左腿。"
+
+msgid "Update Options"
+msgstr "更新选项"
+
+msgid "Payout Settings"
+msgstr "比率设置"
+
+msgid "Use this screen to define the basic parameters of your pay plan."
+msgstr "使用此屏幕定义你的工资计划的基本参数。"
+
+msgid "How many paid members in the left and right leg individually will make 1 pair for calculating commissions."
+msgstr "支付多少成员分别在左，右腿将进行1对计算佣金。"
+
+msgid "To incentivise members in the initial stages the amount paid for initial pairs is slightly higher than the regular payout amount."
+msgstr "为鼓励各成员在初始阶段所支付的金额进行初始对略高于定期派息金额。"
+
+msgid "Specify the number of initial pairs for which you would like to pay a higher payout amount."
+msgstr "指定数量的初始对，你想付出更高的支付金额。"
+
+msgid "This is the per pair amount that is paid for the each Initial Pair."
+msgstr "这是每对每个初始对支付金额。"
+
+msgid "This is the payout amount for every Pair after the Initial Pairs."
+msgstr "这是首次对支付金额后，每对。"
+
+msgid "An amount that is deducted from each Payout paid to the member as a fixed Service Charge. eg. $2 as processing fee for each payout."
+msgstr "从每个赔付金额扣除支付给成员作为一个固定的服务费。例如。每个支付处理费2元。"
+
+msgid "Some countries have a legislation of deducting Income Tax at source while making commission payments to your members."
+msgstr "有些国家有立法源，同时扣除所得税，佣金支付给您的成员。"
+
+msgid "In case there is a tax deduction required in your country you can specify the tax % here."
+msgstr "情况下，有需要在你的国家，你可以在这里指定的税收％抵税。"
+
+msgid "Please mention here pair ratio."
+msgstr "请在这里提到的对比。"
+
+msgid "Please mention here initial pair."
+msgstr "请在这里提到的初始对。"
+
+msgid "Initial Pair Amount"
+msgstr "初始配对金额"
+
+msgid "Please mention here initial amount."
+msgstr "请在这里提到的初始确认金额。"
+
+msgid "Further Pair Amount"
+msgstr "另一对金额"
+
+msgid "Please mention here further pair amount."
+msgstr "请提到这里进一步对量。"
+
+msgid "Service Charge (If any)"
+msgstr "服务费（如有）"
+
+msgid "Please specify service charge."
+msgstr "请注明服务费。"
+
+msgid "Tax Deduction"
+msgstr "税前扣除"
+
+msgid "Please specify TDS."
+msgstr "请注明TDS。"
+
+msgid "Pair"
+msgstr "对"
+
+msgid "Initial Pairs"
+msgstr "初步对"
+
+msgid "<span style='color:green;'>Your bonus has been successfully updated.</span>"
+msgstr "<span style='color:green;'>您的奖金已成功更新。</ span>"
+
+msgid "Bonus Settings"
+msgstr "奖金设置"
+
+msgid "In case you have a bonus option in your Network, use this tab to configure the bonus settings."
+msgstr "如果你有一个奖金在您的网络中选择，使用此选项卡配置的奖金设置。"
+
+msgid "Bonus Criteria"
+msgstr "奖励标准"
+
+msgid "The bonus amount can be paid on the basis of Total number of Pairs in a members network or the Total number of members referred Personally by a member. Select the option that suits your network."
+msgstr "奖金数额，可支付的总对数的基础上，在网络或亲自简称由一名成员总数。选择选择适合您的网络。"
+
+msgid "Bonus Slabs"
+msgstr "红砖"
+
+msgid "Bonus Slab"
+msgstr "红板"
+
+msgid "Specify the total number of pairs or members that a member needs to achieve and the corresponding bonus amount for the same. To add a new slab click the Add Row button. Specify the number of pairs / members and the corresponding amount for the next slab. When you are done creating the slabs click the Update Options button."
+msgstr "指定对或成员的总数，一个成员需要实现相应的奖金金额相同。要添加一个新的平板单击“添加行”按钮。指定下板坯双/成员的数量以及相应的金额。当您完成创建楼板单击“更新”选项“按钮。"
+
+msgid "Example Slab Figures"
+msgstr "板坯图示例"
+
+msgid "Unit"
+msgstr "单元"
+
+msgid "Amount"
+msgstr "量"
+
+msgid "This implies that a member is paid a commission of 10 on achieving 5 pairs or personal referrals."
+msgstr "这意味着一个成员达到5成对或个人推荐，支付佣金10。"
+
+msgid "On achieving the NEXT 10 pairs or personal referrals the member is paid a commission of 20. So now the member has either 15 pairs or 15 personal referrals in total."
+msgstr "实现未来10成对或个人推荐的会员支付佣金20。所以现在的成员有15对共15个人推荐。"
+
+msgid "On achieving the NEXT 20 pairs or personal referrals the member is paid a commission of 40. So now the member has either 35 pairs or 35 personal referrals in total."
+msgstr "实现未来20对或个人推荐会员支付佣金40。所以现在的成员有35对共35个人推荐。"
+
+msgid "Add or remove bonus slab."
+msgstr "添加或删除奖金板坯。"
+
+msgid "Please select bonus type."
+msgstr "请选择分红型。"
+
+msgid "License Settings"
+msgstr "许可证设置"
+
+msgid "License Details"
+msgstr "许可证详细信息"
+
+msgid "Domain Name"
+msgstr "域名"
+
+msgid "License Key"
+msgstr "许可证密钥"
+
+msgid "Please fill the complete information."
+msgstr "请填写完整的信息。"
+
+msgid "There has been an error while generating this tree. <br>Please contact the system admin at"
+msgstr "一直有一个错误，而产生这种树。请联系系统管理员"
+
+msgid "to report this problem."
+msgstr "报告此问题。"
+
+msgid "You can't authorized to access searched user's genealogy."
+msgstr "您不能授权访问搜索用户的家谱。"
+
+msgid "Back"
+msgstr "后面"
+
+msgid "You have searched a wrong username."
+msgstr "您寻觅了错误的用户名。"
+
+msgid "My Left Group Details"
+msgstr "我的左组的详细信息"
+
+msgid "Display Number of Rows"
+msgstr "显示行数"
+
+msgid "Total Users"
+msgstr "用户总数"
+
+msgid "Active Users"
+msgstr "活跃用户"
+
+msgid "My Right Group Details"
+msgstr "我的右键集团详细"
+
+msgid "My Personal Group Details"
+msgstr "我的个人组的详细信息"
+
+msgid "My Consultants Details"
+msgstr "我的顾问详细"
+
+msgid "Consultants"
+msgstr "顾问"
+
+msgid "Personal Information"
+msgstr "个人信息"
+
+msgid "View Genealogy"
+msgstr "查看家谱"
+
+msgid "View All"
+msgstr "查看全部"
+
+msgid "You have not earned any commisssions yet."
+msgstr "你还没有获得任何佣金。"
+
+msgid "Network Details"
+msgstr "网络详细信息"
+
+msgid "Left Leg Sales"
+msgstr "左腿销售"
+
+msgid "Right Leg Sales"
+msgstr "右腿销售"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "Type Again"
+msgstr "再次键入"
+
+msgid "Binary MLM"
+msgstr "二进制传销"
+
+msgid "Run Payouts"
+msgstr "运行提款"
+
+msgid "User Report"
+msgstr "用户报告"
+
+msgid "MLM Payout"
+msgstr "传销赔付"
+
+msgid "Use this screen to run the Payout routine for your network. While testing the plugin use the Distribute Commission and Bonus button below after adding a few members to the network. On a live site the following URL needs to be scheduled (cron job) to run every hour for the commission and bonus routines."
+msgstr "使用此屏幕为您的网络中运行的赔付程序。虽然测试插件少数成员加入到网络后，使用下面分发佣金及花红按钮。在一个现场直播，下面的URL需要预定（cron作业），以每小时运行一次佣金及花红例程。"
+
+msgid "The commission and bonus routines would simply keep distributing the commission and bonus amounts in the member accounts. They would not show up in their account till the time the Payout Routine is not run. This script can be run manually once every week, every fortnight or every month depending on the payout cycle of the network. Alternately, please schedule (cron job) the following URL as per the frequency of the payout cycle."
+msgstr "佣金及花红例程只会继续分发成员帐户的佣金及花红金额。他们不会显示在其帐户中的时间，直到赔付程序无法运行。这个脚本可以手动运行，每周一次，每两个星期或每个月取决于网络支付周期。另外，请安排（cron作业）以下URL每个支付周期的频率。"
+
+msgid "Distribute Commission and Bonus"
+msgstr "分发佣金及花红"
+
+msgid "Run Payout Routine"
+msgstr "运行赔付程序"
+
+msgid "There is no any eligible member Found in this Payout."
+msgstr "有没有找到任何合格的成员，在这个比率。"
+
+msgid "All is Well. Commit."
+msgstr "一切都很好。提交。"
+
+msgid "Something wrong. Cancel."
+msgstr "有些不妥。取消。"
+
+msgid "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>In order to view the details of the payout (like the image below) before committing the same, you may consider upgrading to the PRO version of the plugin. You can purchase a license key at"
+msgstr "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>为了查看详细信息之前犯了同样的比率（如下图所示），你可以考虑升级到PRO版本的插件。你可以购买一个许可证密钥"
+
+msgid "Create First User"
+msgstr "创建的第一个用户"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Eligibility"
+msgstr "合格"
+
+msgid "Payout"
+msgstr "赔付"
+
+msgid "Bonus"
+msgstr "奖金"
+
+msgid "License Detail"
+msgstr "许可证详细信息"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Withdrawals"
+msgstr "提款"
+
+msgid "Withdrawal Process"
+msgstr "撤军进程"
+
+msgid "Withdrawal Report"
+msgstr "提款报告"
+
+msgid ".po-Editor"
+msgstr "位编辑。"
+
+msgid "Update Details"
+msgstr "更新详细信息"
+
+msgid "Add Row"
+msgstr "添加行"
+
+msgid "Delete Row"
+msgstr "删除行"
+
+msgid "Select Bonus Criteria"
+msgstr "选择红利标准"
+
+msgid "No. of Pairs"
+msgstr "对数"
+
+msgid "No. of Personal Referrer"
+msgstr "不是的。员工引荐"
+
+msgid "Select Currency"
+msgstr "选择货币"
+
+msgid "Total"
+msgstr "总"
+
+msgid "Service Charges" 
+msgstr "服务收费"
+
+msgid "createuser" 
+msgstr "创建用户"
+
+msgid "click here" 
+msgstr "点击这里"
+
+msgid "Input a member's username or email address in the input box below to get complete information about the member's account. No more switching back and forth into different member accounts to check their account details." 
+msgstr "输入会员的用户名或电子邮件地址在下面的输入框中有关成员的帐户，以获得完整的信息。没有更多的来回切换成不同的会员帐户，检查其账户细节。"
+
+msgid "Search By username or email address" 
+msgstr "通过搜索用户名或电子邮件地址" 
+
+msgid "Back to User Dashboard" 
+msgstr "备份用户面板" 
+
+msgid "Please enter username or email address." 
+msgstr "请输入用户名或电子邮件地址。"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "You have entered a wrong username or email address"
+msgstr "你输入了错误的用户名或电子邮件地址"
+
+msgid "Given below is the list of all pending User Withdrawals."
+msgstr "下面给出的是所有悬而未决的用户提款清单。"
+
+msgid "Process"
+msgstr "过程"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Input the payment details for the withdrawal. These payment details would also show up on the User's Payout Details Page."
+msgstr "输入付款细节撤出。这些付款细节也将显示在用户的比率。"
+
+msgid "This would mark the withdrawal as deleted. The user would need to initiate a fresh withdrawal for this payout from his interface."
+msgstr "这将标志着撤出删除。用户将需要重新启动撤出派息从他的界面。"
+
+msgid "Member Username"
+msgstr "会员用户名"
+
+msgid "Member Email"
+msgstr "会员电邮"
+
+msgid "Withdrawal Initiate Date"
+msgstr "的提款启动日期"
+
+msgid "Withdrawal Comment"
+msgstr "提款评论"
+
+msgid "Payout Id"
+msgstr "赔付ID"
+
+msgid "Payout Date"
+msgstr "派息日期"
+
+msgid "Pending User Withdrawals"
+msgstr "待用户提款"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "Hooray! Nothing in the pipeline to be processed."
+msgstr "万岁！在管道没有被处理。"
+
+msgid "Processed Withdrawals Report"
+msgstr "加工提款报告"
+
+msgid "Given below is the list of all withdrawal requests that have been successfully processed."
+msgstr "下面给出的是列表中的所有提款请求已成功处理。"
+
+msgid "User Name"
+msgstr "用户名"
+
+msgid "User Email"
+msgstr "用户电子邮件"
+
+msgid "Withdrawal Date"
+msgstr "提款日期"
+
+msgid "Withdrawal Amount"
+msgstr "提款金额"
+
+msgid "Payment Mode"
+msgstr "付款方式"
+
+msgid "Payment Details"
+msgstr "付款详情"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Your License key has been updated."
+msgstr "您的许可证密钥已更新。"
+
+msgid "Sorry, Your License key is invalid."
+msgstr "对不起，您的许可证密钥是无效的。"
+
+msgid "Direct Referral Commission"
+msgstr "直接转介委员会"
+
+msgid "This figure will be configurable on the Payout tab of the Plugin Settings. This amount will be added to the payout of a particular member during a particular payout cycle and will be shown on the front end Payout Details page as a separate line item titled Personal Referral Commission."
+msgstr "这个数字将赔付插件设置选项卡上进行配置。这笔款项将被添加到一个特定的成员支付在一个特定的支付周期，将显示在前端赔付详情页面标题为个人推荐委员会作为一个单独的项目。"
+
+msgid "Cap Limit"
+msgstr "上限限制"
+
+msgid "Even if a member is entitled to an amount higher than the cap limit, the maximum amount that can be paid to the member will be equal to the amount specified in the cap limit field."
+msgstr "即使成员均有权金额高于上限，会员可支付的最高金额上限字段中指定的金额相等。"
+
+msgid "Initial Pair"
+msgstr "初始配对"
+
+msgid "Initial Amount"
+msgstr "初始投资额"
+
+msgid "Direct Referral Commission Amount"
+msgstr "直接转介佣金金额"
+
+msgid "Cap Limit Amount"
+msgstr "上限金额"
+
+msgid "Confirm Delete withdrawal request?"
+msgstr "确认删除提款申请？"
+
+msgid "Process Individual User Withdrawal"
+msgstr "处理个人用户提款"
+
+msgid "Use the form below to process an individual user withdrawal."
+msgstr "使用下面的表格来处理个人用户撤出。"
+
+msgid "Cash"
+msgstr "现金"
+
+msgid "Cheque"
+msgstr "支票"
+
+msgid "Simply records a cash payment against the withdrawal with no further details."
+msgstr "简单的记录现金付款反对撤出，没有进一步的细节。"
+
+msgid "Specify the Cheque Number, Cheque Date and Bank Name."
+msgstr "指定支票号码，支票日期和银行名称。"
+
+msgid "Bank Transfer"
+msgstr "银行转帐"
+
+msgid "Specify the Beneficiary Name, Account Number, Bank Name and Bank Transfer Code (optional)."
+msgstr "指定的收款人名称，账户号码，银行名称和银行汇款代码（可选）。"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "For any other mode of payment. Just specify the payment details in the input box provided."
+msgstr "对于任何其他的付款方式。只要提供的输入框中指定的付款细节。"
+
+msgid "Member Id"
+msgstr "会员编号"
+
+msgid "Member User Name"
+msgstr "会员用户名"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Name"
+msgstr "名"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "DOB"
+msgstr "出生日期"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "My Payouts"
+msgstr "我的支出"	
+
+msgid "Date"
+msgstr "日"	
+
+msgid "Total on Right Leg"
+msgstr "总右腿"	
+
+msgid "Total on Left Leg"
+msgstr "左腿总"	
+
+msgid "My Personal Sales"
+msgstr "我的个人销售"	
+
+msgid "Personal Sales"
+msgstr "个人销售"	
+
+msgid "Details"
+msgstr "详细信息"	
+
+msgid "Payout Details"
+msgstr "赔付详情"	
+
+msgid "Commission"
+msgstr "佣金"	
+
+msgid "Payout Summary"
+msgstr "赔付摘要"	
+
+msgid "Commission Amount"
+msgstr "佣金金额"	
+
+msgid "Bonus Amount"
+msgstr "奖金数额"	
+
+msgid "Sub-Total"
+msgstr "奖金数额"	
+
+msgid "Service Charge"
+msgstr "服务费"	
+
+msgid "Tax"
+msgstr "税"	
+
+msgid "Net Amount"
+msgstr "净额"	
+
+msgid "Your Withdrawal Request Initiated."
+msgstr "您的取款请求启动"	
+
+msgid "Withdrawal Pending"
+msgstr "待提款"	
+
+msgid "Payment Processed"
+msgstr "付款方式加工"	
+
+msgid "View Payment Detail"
+msgstr "查看付款明细"	
+
+msgid "Comment, if any"
+msgstr "如果任何评论，"	
+
+msgid "Initiate withdrawal"
+msgstr "启动撤离"	
+
+msgid "Payout ID"
+msgstr "赔付ID"	
+
+
+msgid "User Key"
+msgstr "用户密钥"
+
+msgid "Sponsor"
+msgstr "赞助"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Payment Date"
+msgstr "付款日期"
+
+msgid "Payment Detail"
+msgstr "付款明细"
+
+msgid "Cheque No"
+msgstr "登记"
+
+msgid "Cheque Date"
+msgstr "支票日期"
+
+msgid "Bank Name"
+msgstr "银行名称"
+
+msgid "Benificiary"
+msgstr "收款人"
+
+msgid "Account No"
+msgstr "帐户号码"
+
+msgid "Banktransfer Code"
+msgstr "Banktransfer代码"
+
+msgid "Thanks for Patience"
+msgstr "感谢您的耐心"
+
+msgid "view"
+msgstr "视图"
+
+msgid "ADD"
+msgstr "地址"
+
+msgid "PAID"
+msgstr "高薪"
+
+msgid "Owner"
+msgstr "业主"
+
+msgid "Left leg"
+msgstr "左腿"
+
+msgid "Right leg"
+msgstr "右腿"
+
+msgid "YOU"
+msgstr "你"
+
+
+msgid "This is the amount paid to a sponsor for sponsoring a new member in the network. This amount is paid for an infinite number of referrals."
+msgstr "这是网络中的一个新成员赞助的保荐人所支付的金额。这一数额支付的无限多的转介。"
+
+msgid "Maximum amount that can be paid to a member in one payout cycle. Anything above the cap limit will be flushed out."
+msgstr "最高金额可支付一个支付周期中的一员。任何上述上限将被刷新。"
+
+
+msgid "Activate ePin"
+msgstr "激活EPIN"
+
+msgid "In case you would like to Activate ePin functionality on your website, set this value to Yes."
+msgstr "如果你想在您的网站上激活EPIN功能，将此值设置为“是”."
+
+msgid "Sole Payment Method"
+msgstr "唯一的付款方法"
+
+msgid "In case members can only register on your site via ePin, set this to Yes. This would make the ePin field mandatory on the user registration form and a visitor would need a valid unused ePin to complete his registration. If this value is set to No, a visitor will be able to register on the site even without specifying a valid ePin. In this case you would need to manually mark the member as Paid / Unpaid under Users -> All Users."
+msgstr "的情况下成员只能通过EPIN您的网站上注册，设置为“是”。这将使用户注册表单和访问者强制EPIN场将需要一个有效的未使用EPIN的完成他的注册。如果这个值被设置为“否”，访问者就能到甚至而不指定一个有效EPIN的，在网站上注册。在这种情况下，你需要手动标记成员根据用户有偿/无偿 - >所有用户."
+
+msgid "ePin Length"
+msgstr "EPIN长度"
+
+msgid "The length of the generated ePins."
+msgstr "生成的名字父亲出生的城市你其中一位老师的名字的长度."
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "没有"
+
+msgid "Here at least one ePin is used."
+msgstr "在这里至少一个EPIN的用于."
+
+msgid "ePin Settings"
+msgstr "EPIN设置"
+
+msgid "ePins"
+msgstr "名字父亲出生的城市你其中一位老师的名字"
+
+msgid "Use this tab to generate the ePins in your network which would be used for registering new members on the site. All ePins generated will be unique and the length shall be as specified in the General Tab."
+msgstr "使用此选项卡，在网站上注册的新成员，将用于在您的网络中生成的名字父亲出生的城市你其中一位老师的名字。所有的名字父亲出生的城市你其中一位老师的名字将是唯一的，应在“常规”选项卡中指定的长度."
+
+msgid "No. of ePins"
+msgstr "引脚数"
+
+msgid "Specify the number of ePins to generate."
+msgstr "指定数量的名字父亲出生的城市你其中一位老师的名字生成."
+
+msgid "Type - Regular"
+msgstr "类型 - 正常"
+
+msgid "A member registering with a Regular ePin shall be treated as a regular Paid member of the system. The commission for the member will be distributed amongst his upline and he will also earn commissions and bonuses from his downline."
+msgstr "一位成员与正常EPIN注册应被视为定期支付系统成员。该委员会的成员将被分派他的上线，并从他的下线，他还将赚取佣金和奖金."
+
+msgid "Type - Free"
+msgstr "类型 - 免费"
+
+msgid "A member registering with a Free ePin shall be treated as a Special Paid member of the system. The commission for the member will NOT be distributed amongst his upline (since he has not paid himself). However, he will earn commissions and bonuses from his downline (for regular paid members)."
+msgstr "一位成员与正常EPIN注册应被视为一个特别的支付系统成员。该委员会的成员将不会被分派他的上线（因为他还没有自己支付）。但是，他会从他的下线赚取佣金和奖金（定期支付会员）."
+
+msgid "ePins of type"
+msgstr "类型的名字父亲出生的城市你其中一位老师的名字"
+
+msgid "Regular"
+msgstr "定期"
+
+msgid "Free"
+msgstr "免费"
+
+msgid "} have been generated successfully."
+msgstr "}已经成功生成."
+
+msgid "There was an error in generating the ePins. Please try again."
+msgstr "在生成的名字父亲出生的城市你其中一位老师的名字是一个错误。请再试一次."
+
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Generate ePins"
+msgstr "生成的名字父亲出生的城市你其中一位老师的名字"
+
+msgid "ePin Report"
+msgstr "EPIN报告"
+
+msgid "The report below lists all the ePins that have been generated on your site. Filter the results to see just the Used Pins or Unused Pins. To revert back to the default listing click the Reset Button."
+msgstr "该报告列出了所有的名字父亲出生的城市你其中一位老师的名字已在您的网站上产生。筛选结果，看到的只是使用的销或者未使用的引脚。要恢复到默认列表单击“重置”按钮."
+
+msgid "Reset"
+msgstr "复位"
+
+msgid "Used Date"
+msgstr "二手日期"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Choose Option"
+msgstr "选择“选项”"
+
+msgid "Used ePin"
+msgstr "二手EPIN"
+
+msgid "UnUsed ePin"
+msgstr "未使用EPIN的"
+
+msgid "export-csv"
+msgstr "出口CSV"
+
+msgid "Minimum No. of Members in the Group"
+msgstr "最小号集团成员"
+
+msgid "Please specify Minimum No. of Members in the Group."
+msgstr "请在本集团成员中指定的最低数目。"
+
+msgid "\n Your pair ratio is wrong."
+msgstr "您的对比率是错误的。"
+
+msgid "\n Your initial pair value is wrong."
+msgstr "你对初始值是错误的。"
+
+msgid "\n Your initial amount value is wrong."
+msgstr "您的初始金额值是错误的。"
+
+msgid "\n Your further amount value is wrong."
+msgstr "您的进一步量的值是错误的。"
+
+msgid "<span style='color:green;'>Your payout settings has been successfully updated.</span>"
+msgstr "<span style='color:green;'>您的奖金设置已成功更新。</span>"
+
+msgid "The Number of ePins can not be empty. please Specify the ePins Number."
+msgstr "数的名字父亲出生的城市你其中一位老师的名字不能是空的。请指定的名字父亲出生的城市你其中一位老师的名字数。"
+
+msgid "\n Please specify your direct active referrals."
+msgstr "请注明您的直接主动转介。"
+
+msgid "\n Please specify your right leg active referrals."
+msgstr "请注明你的右腿积极转介。"
+
+msgid "\n Please specify your left leg active referrals."
+msgstr "请注明你的左腿主动转介。"
+##
+msgid "Cannot delete all the rows."
+msgstr "无法删除所有的行。"
+
+msgid "Please ensure that you have marked all the members as Paid who have Paid in the current Payout cycle. In case not, then"
+msgstr "请确保您已标记的所有成员已支付，已支付在当前付款周期。没有，那么"
+
+msgid "to go to the User Listing Page and mark those members as Paid."
+msgstr "用户列表页和纪念这些成员支付的。"
+
+msgid "The <strong>Search</strong> and <strong>Export to CSV</strong> funtions will work on the currently active Recordset i.e. if you are currently on the Used ePin Filter then performing a search or Exporting to CSV will apply only to the Used ePins."
+msgstr "在<strong>搜索</strong>和<strong>导出到CSV</strong>的funtions将当前激活的记录，即如果你是目前二手EPIN筛选，接着执行搜索或导出到CSV将适用只所用的名字父亲出生的城市你其中一位老师的名字。。"
+
+msgid "Pin No."
+msgstr "引脚数"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Generated On"
+msgstr "上产生"
+
+msgid "Used on"
+msgstr "用于"
+
+msgid "Please enter username."
+msgstr "请输入您的用户名。"
+
+msgid "Please enter Valid ePin."
+msgstr "请输入有效EPIN“。"
+
+msgid "Please enter ePin."
+msgstr "请输入EPIN。"
+
+msgid "Please enter the user name."
+msgstr "请输入用户名。"
+
+msgid "Please enter password."
+msgstr "请输入您的密码。"
+
+msgid "Password length is atleast 6 char."
+msgstr "密码长度至少是6个字符。"
+
+msgid "Please confirm your password."
+msgstr "请确认您的密码。"
+
+msgid "Please enter the sponsor name."
+msgstr "请输入的赞助商名称。"
+
+msgid "Special characters are not allowed in"
+msgstr "特殊字符不会被允许在"
+
+msgid "Your email address is not valid."
+msgstr "您的电子邮件地址是无效的。"
+
+msgid "Your password does not match please try again."
+msgstr "您的密码不匹配，请再试一次。"
+
+msgid "Please enter sponsor name."
+msgstr "请输入赞助商名称。"
+
+msgid "Please select the placement."
+msgstr "请选择安置。"
+
+msgid "Please enter your first name."
+msgstr "请输入您的名字。"
+
+msgid "Please enter your last name."
+msgstr "请输入您的姓氏。"
+
+msgid "Please enter your address."
+msgstr "请输入您的地址。"
+
+msgid "Please enter your city name."
+msgstr "请输入您的城市名称。"
+
+msgid "Please enter your state name."
+msgstr "请输入您的国家名称。"
+
+msgid "Please enter your postal code."
+msgstr "请输入您的邮政编码。"
+
+msgid "Please select your country name."
+msgstr "请选择您的国家名称。"
+
+msgid "Please enter your E-mail address."
+msgstr "请输入您的E-mail地址。"
+
+msgid "Please confirm your E-mail address."
+msgstr "请确认您的E-mail地址。"
+
+msgid "Your E-mail address does not match please try again."
+msgstr "您的电子邮件地址不匹配，请再试一次。"
+
+msgid "Please enter your contact number."
+msgstr "请输入您的联系号码。"
+
+msgid "Please enter your date of birth."
+msgstr "请输入您的出生日期。"
+
+msgid "The changes you made will be lost if you navigate away from this page. <br/> Are you sure you want to leave this page"
+msgstr "如果导航离开此页面，您所做的更改将丢失。 <br/>您确定要离开这个页面"
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果导航离开此页面，您所做的更改将丢失。"
+
+msgid "Enter ePin"
+msgstr "输入EPIN"
+
+msgid "Sorry. You are not allowed to access this page due to administrative permissions."
+msgstr "抱歉。你是不是由于管理权限访问此页面。"
+
+msgid "Your status is already to set to Paid in the system. You cannot activate your membership again with an ePin."
+msgstr "你的状态已经设置为系统中支付。你不能再次激活你的会员资格与EPIN。"
+
+msgid "<span class='msg'>Congratulations! This ePin is available.</span>"
+msgstr "<span class='msg'>恭喜！这EPIN是。</span>"
+
+msgid "<span class='errormsg'>Sorry! This ePin is not Valid or already Used .</span>"
+msgstr "<span class='errormsg'>抱歉！无效或已使用。这EPIN是</span>"
+
+msgid "<span class='errormsg'>Sorry! The specified username is not available for registration.</span>"
+msgstr "<span class='errormsg'>对不起！指定的用户名是不是可以注册。</span>"
+
+msgid "<span class='msg'>Congratulations! The username is available.</span>"
+msgstr "<span class='msg'>恭喜！用户名可用。</span>"
+
+msgid "<span class='errormsg'>Sorry! The specified sponsor is not available for registration.</span>"
+msgstr "<span class='errormsg'>对不起！指定的赞助商是不是可以注册。</span>"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Summaries"
+msgstr "摘要"
+
+msgid "Total Amount Credited"
+msgstr "计入总额"
+
+msgid "Pending Payments"
+msgstr "待付款"
+
+msgid "Processed Payments"
+msgstr "已处理的付款"
+
+msgid "Available Amount"
+msgstr "可用金额"
+
+msgid "Product price"
+msgstr "产品价格"
+
+msgid "Earning Reports"
+msgstr "企业财报"
+
+msgid "Date From"
+msgstr "日期由"
+
+msgid "Date To"
+msgstr "日期至"
+
+msgid "Period"
+msgstr "期间"
+
+msgid "Gross Earnings"
+msgstr "总收入"
+
+msgid "Payouts"
+msgstr "取款"
+
+msgid "Net Earnings"
+msgstr "净盈利"
+
+msgid "MLM Reports"
+msgstr "传销报告"
+
+msgid " to "
+msgstr " 至 "
+
+msgid "<div class='updated fade'><p><strong>Complete the MLM Product Price in General settings. Please </strong>"
+msgstr "<div class='updated fade'><p><strong>完成传销产品的价格在一般设置中。请 </strong>"
+
+msgid "The price payable by a member in order to join your network."
+msgstr "The price payable by a member in order to join your network."
