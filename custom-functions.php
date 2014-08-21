@@ -337,7 +337,7 @@ function update_user_role() {
 function set_product_price() {
     global $wpdb;
     $mlm_settings = get_option('wp_mlm_general_settings');
-    $mlm_settings['product_price'] = 201;
+    
     if (!empty($mlm_settings['product_price'])) {
         $price = $mlm_settings['product_price'];
         $insert = "INSERT INTO {$wpdb->prefix}mlm_product_price set product_name='MLM Product 1',product_price='$price'";
